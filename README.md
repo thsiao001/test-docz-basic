@@ -1,4 +1,4 @@
-# Basic Docz example
+# Basic Docz examples
 
 ## Using `create-docz-app`
 
